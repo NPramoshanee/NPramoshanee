@@ -14,7 +14,7 @@
 
 - Full Stack Software Development
 
-<p align="center"><img src="C:\Users\hp\Downloads\web-develper" alt="web-develper" width="50px" heigth="50px"></p>
+<img align="center" alt="web-develper" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw0Nj-eVPdRy-1Uc9XdtJ-dp&ust=1719646093472000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiMmZTj_YYDFQAAAAAdAAAAABAQ"></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
