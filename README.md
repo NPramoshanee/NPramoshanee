@@ -14,7 +14,7 @@
 
 - Full Stack Software Development
 
-<img align="center" alt="web-develper" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Nj-eVPdRy-1Uc9XdtJ-dp&ust=1719646093472000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiMmZTj_YYDFQAAAAAdAAAAABAW.gif">
+<img align="center" alt="web-develper" width="400" src="![image](https://github.com/NPramoshanee/NPramoshanee/assets/143919756/23bfa226-1b0b-4304-aa20-c72722e7fba6)">
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
