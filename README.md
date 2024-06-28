@@ -14,7 +14,7 @@
 
 - Full Stack Software Development
 
-<img src="C:\Users\hp\Downloads\web-develper" alt="web-develper" />
+<p align="center"><img src="C:\Users\hp\Downloads\web-develper" alt="web-develper"></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
