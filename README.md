@@ -14,7 +14,7 @@
 
 - Full Stack Software Development
 
-<img align="center" alt="web-developer" width="400" src="[https://github.com/NPramoshanee/NPramoshanee/assets/143919756/c3dabcf2-6107-4865-90df-22c33bd38302.gif](https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif)">
+<img align="center" alt="web-developer" width="400" src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif">
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
