@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Nadeesha Pramoshanee</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
+<h3 align="center">My name is Nadeesha Pramoshanee Ekanayaka. I am an undergraduate in Bachelor of Information and Communication Technology from Rajarata University of Sri Lanka. Optimistic and ambitious, with a passion for working with talented people and collaborating to make projects that would make an immediate impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npramoshanee&label=Profile%20views&color=0e75b6&style=flat" alt="npramoshanee" /> </p>
 
