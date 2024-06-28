@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npramoshanee&label=Profile%20views&color=0e75b6&style=flat" alt="npramoshanee" /> </p>
 
-- 🔭 I’m currently working on **WebNearMe**
+- Web Design
 
-- 🌱 I’m currently learning **Java**
+- WordPress
 
-- 💬 Ask me about **Java**
+- Front End Web Development
 
-- 📫 How to reach me **npramoshanee@icloud.com**
-
-- ⚡ Fun fact **Call me as Nadee.**
+- Server Side Web Programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
