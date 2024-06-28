@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/npramoshanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="npramoshanee" height="30" width="40" /></a>
 <a href="https://facebook.com/fb/npramoshanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="npramoshanee" height="30" width="40" /></a>
-<a href="https://whatsapp.com/icon/npramoshanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp-alt.svg" alt="simplified_learne" height="30" width="40" /></a>
+<a href="https://whatsapp.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="simplified_learne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
