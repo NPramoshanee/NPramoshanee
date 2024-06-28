@@ -1,6 +1,6 @@
 <h1 align="left">Hi! I'm Nadeesha Pramoshanee</h1>
 <h3 align="left">My name is Nadeesha Pramoshanee Ekanayaka. I am an undergraduate in Bachelor of Information and Communication Technology from Rajarata University of Sri Lanka. Optimistic and ambitious, with a passion for working with talented people and collaborating to make projects that would make an immediate impact.</h3>
-<h1 align="left">My interests:</h1>
+<h2 align="left">My interests:</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npramoshanee&label=Profile%20views&color=0e75b6&style=flat" alt="npramoshanee" /> </p>
 
